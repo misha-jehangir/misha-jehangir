@@ -1,6 +1,6 @@
-# Hi there, I'm Misha Jehangir 👋
+# Misha Jehangir
 
-I'm a **Software Engineer** with a passion for building end-to-end software systems. I enjoy working across the entire development process, from experimenting with machine learning models and designing system architectures to building polished user experiences and deploying production-ready applications. I like being involved wherever there are interesting problems to solve.
+**Software Engineer** with a passion for building end-to-end software systems. I enjoy working across the entire development process, from experimenting with machine learning models and designing system architectures to building polished user experiences and deploying production-ready applications. I like being involved wherever there are interesting problems to solve.
 
 ---
 
