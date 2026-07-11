@@ -8,9 +8,9 @@
 
 | Project | About | Stack |
 |---------|-------|-------|
-| **Atelier — AI-Powered Personal Stylist** *(Repositories will go public soon)* | AI-powered personal styling platform featuring seasonal color analysis, wardrobe digitization, and personalized outfit planning. | Flutter • FastAPI • PyTorch • Firebase • MySQL • Docker |
-| **[MoodBook](https://github.com/khadeejab038/moodbook-app)** | Mood journaling application featuring AI-powered insights and a Retrieval-Augmented Generation (RAG) assistant. Backend: **[moodbook-backend](https://github.com/misha-jehangir/moodbook-backend)** | Flutter • Firebase • FastAPI • Firestore Vector Search |
-| **[Hybrid Tourism Recommendation System](https://github.com/misha-jehangir/lahore-poi-recommender)** | Hybrid recommendation engine for discovering tourist destinations across Lahore, Pakistan. | Python • LightFM • scikit-learn |
+| **Atelier — AI-Powered Personal Stylist**<br>Mobile App • DB Backend • AI Backend • Model Training *(repos going public soon)* | AI-powered personal styling platform featuring seasonal color analysis, wardrobe digitization, and personalized outfit planning. | Flutter • FastAPI • PyTorch • Firebase • MySQL • Docker |
+| **MoodBook — Mood-Tracking & Wellness Companion**<br>[Mobile App](https://github.com/khadeejab038/moodbook-app) • [RAG & Analytics Backend](https://github.com/misha-jehangir/moodbook-backend) | Mood journaling application featuring AI-powered insights and a Retrieval-Augmented Generation (RAG) assistant. | Flutter • Firebase • FastAPI • Firestore Vector Search |
+| **Hybrid Tourism Recommendation System**<br>[Training Notebook](https://github.com/misha-jehangir/lahore-poi-recommender) | Hybrid recommendation engine for discovering tourist destinations across Lahore, Pakistan. | Python • LightFM • scikit-learn |
 
 ---
 
